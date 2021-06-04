@@ -9,8 +9,6 @@
 - Fancybox
 - Swiper Slider JS
 
-<form action="https://coddism.com/zametki/razmetka_readmemd_v_github">
-  <button type="submit">click</button>
-</form>
+<button>click</button>
                              
 
