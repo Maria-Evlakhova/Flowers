@@ -8,4 +8,6 @@
 - jQuery
 - Fancybox
 - Swiper Slider JS
-
+```html
+<input type=button" onclick="https://coddism.com/zametki/razmetka_readmemd_v_github>
+```
